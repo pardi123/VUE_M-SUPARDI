@@ -26,3 +26,5 @@
 
  # gambar
   ![Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshots-branch-main.JPG)
+  ![Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshots%3Dbranch-develover.JPG)
+  ![Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshots-branch-fitur1.JPG)

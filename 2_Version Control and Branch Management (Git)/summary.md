@@ -7,7 +7,7 @@
     disini kami diajarkan untuk membuat branch dan mengganti branch kami dan kami diajarkan untuk full request dan kami diajarkan untuk menggunakan remote untuk mengubah atau memperbaiki project pada tim kami.
 
     # Taks
-        pada task ini, kami membuat git dan melakukan commit dan menambahkan beberapa branch dengan fitur yang berbeda beda dan berikut link untuk praktikum ini
+        pada task ini, kami membuat git dan melakukan commit dan menambahkan beberapa branch dengan fitur yang berbeda beda, 
+        berikut link untuk praktikum ini
     [screenshots](https://github.com/pardi123/VUE_M-SUPARDI/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots)
 
-    

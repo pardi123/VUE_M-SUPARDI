@@ -25,4 +25,4 @@
  [screenshots](https://github.com/pardi123/VUE_M-SUPARDI/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots)        
 
  # gambar
-  [Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshots-branch-main.JPG)
+  ![Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshots-branch-main.JPG)

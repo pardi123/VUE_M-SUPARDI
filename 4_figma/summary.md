@@ -26,4 +26,6 @@
 
    
 
- [screenshots](https://github.com/pardi123/VUE_M-SUPARDI/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots)   
+ [Praktikum](https://github.com/pardi123/VUE_M-SUPARDI/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots)  
+ # Screenshots
+   ![Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/4_figma/screenshots/praktikum_figma.JPG) 

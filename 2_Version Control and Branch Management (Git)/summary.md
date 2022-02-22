@@ -9,5 +9,6 @@
     # Taks
         pada task ini, kami membuat git dan melakukan commit dan menambahkan beberapa branch dengan fitur yang berbeda beda, 
         berikut link untuk praktikum ini
-    [screenshots](https://github.com/pardi123/VUE_M-SUPARDI/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots)
+         [screenshots](https://github.com/pardi123/VUE_M-SUPARDI/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots)
+   
 

@@ -25,6 +25,9 @@
  [screenshots](https://github.com/pardi123/VUE_M-SUPARDI/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots)        
 
  # gambar
+ * branch main
   ![Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshots-branch-main.JPG)
+* branch develover
   ![Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshots%3Dbranch-develover.JPG)
+* branch fitur 1  
   ![Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshots-branch-fitur1.JPG)

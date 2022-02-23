@@ -27,4 +27,5 @@
 [tugas praktikum UI DAN UX](https://docs.google.com/document/d/1xmFNhfGGQe4lblMR83679X0furqJ5ZyxB6d8ewJMWsM/edit) 
 
     dan gambar dari praktikum saya
-        
+   ![Gambar screenchots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/3_UI%20UX/screenshots/ss.JPG) 
+   

@@ -6,7 +6,7 @@
 2. html
 
     html(Hypertext Markup Language) adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web
-3. CSS
+3. html-editor
    
       HTML editor html editor adalah tempat untuk mengetik kode html 
       contoh 

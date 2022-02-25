@@ -1,1 +1,1 @@
- [tugas praktikum figma](https://www.figma.com/file/BAAwZJiJzF0XPEwVzMIboW/Tugas-Altera?node-id=1%3A2)  
+ [tugas praktikum figma](https://www.figma.com/file/BAAwZJiJzF0XPEwVzMIboW/Tugas-Altera?node-id=15%3A181)  

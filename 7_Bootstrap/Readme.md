@@ -40,7 +40,7 @@ Bootstrap dengan cepat meraih popularitas digunakan oleh 27% website di seluruh 
   1. heading
 
 
-  ![screenshots heading](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/7_Bootstrap/screenshots/body.jpeg)
+  ![screenshots heading](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/7_Bootstrap/screenshots/heading.jpeg)
 
   2. body
 

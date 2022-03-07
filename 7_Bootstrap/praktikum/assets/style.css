@@ -1,0 +1,125 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.banner {
+    background: url("img/background.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+a {
+    color: grey !important;
+}
+
+.text-green {
+    color: #71c55d;
+}
+
+a:hover {
+    color: #71c55d !important;
+}
+
+.text-main {
+    margin-top: 100px;
+    padding: 0;
+    color: #333;
+}
+
+.text-main-h5 {
+    color: #333;
+    font-weight: bold;
+}
+
+.img-main {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+
+.img-about {
+    max-width: 100%;
+}
+
+.about-content>h2 {
+    color: #252525;
+    font-family: "roboto";
+    font-size: 39px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.hover-shadow:hover {
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+p {
+    color: #505050;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    line-height: 2;
+    margin-bottom: 20px;
+}
+
+li {
+    color: #626262;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+
+.footer {
+    background-color: #2a2c30;
+}
+
+.footer-logo .navbar-brand {
+    color: #fff;
+    display: inline-block;
+    float: none;
+    font-family: "Philosopher", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    height: 100%;
+    letter-spacing: 0.2em;
+    padding-left: 0;
+    padding-top: 0;
+    font-weight: bold;
+}
+
+.brand-logo {
+    color: #ffff !important;
+    display: inline-block;
+    float: none;
+    font-family: "Philosopher", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    height: 100%;
+    letter-spacing: 0.2em;
+    padding-left: 0;
+    font-weight: bold;
+    padding-top: 0;
+    text-decoration: none;
+}
+
+.footer .footer-logo p {
+    color: #fff;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.list-unstyled>li>a {
+    color: #ffff !important;
+    text-decoration: none;
+}
+
+.list-menu>h4 {
+    color: #ffff !important;
+}

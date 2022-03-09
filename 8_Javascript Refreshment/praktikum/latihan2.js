@@ -17,8 +17,8 @@ console.log();
 //sehingga output yang akan keluar dalam console menjadi [ '10/17', '05/19', '20/19' ]
 console.log("jawaban nomor 4");
 let bdays = ['10-17', '05-19', '20-19'];
-bdays = ['10/17', '05/19', '20/19'];
-console.log(bdays);
+const hasil4 = bdays.map(x => x.replace("-", "/"));
+console.log(hasil4);
 //5.Kalian memiliki variabel berikut (let value = [1,2,3,4,5,6]). Kalikan setiap value dalam array tersebut dengan dua. 
 //Sehingga, ketika dipanggil variable value mengeluarkan output berupa [ 2, 4, 6, 8, 10, 12 ]
 console.log();

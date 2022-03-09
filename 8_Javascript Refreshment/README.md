@@ -110,11 +110,11 @@ sehingga output yang akan keluar dalam console menjadi [ '10/17', '05/19', '20/1
 
         1. kode yang dihasilkan
 
-         ![screenshots Jawaban no 6](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/kode%20nomor%206.JPG)
+     ![screenshots Jawaban no 6](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/kode%20nomor%206.JPG)
 
         2. Output yang dihasilkan
 
-         ![screenshots Jawaban no 6](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/output%20no%206.JPG)
+    ![screenshots Jawaban no 6](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/output%20no%206.JPG)
 
 
 

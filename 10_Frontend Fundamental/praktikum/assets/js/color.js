@@ -1,0 +1,12 @@
+const red = document.getElementById("red");
+const blue = document.getElementById("blue");
+const green = document.getElementById("green");
+const yellow = document.getElementById("yellow");
+const purple = document.getElementById("purple");
+const grey = document.getElementById("grey");
+red.style.backgroundColor = "red";
+green.style.backgroundColor = "green";
+blue.style.backgroundColor = "blue";
+yellow.style.backgroundColor = "yellow";
+purple.style.backgroundColor = "purple";
+grey.style.backgroundColor = "grey";

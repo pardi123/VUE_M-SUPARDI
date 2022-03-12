@@ -38,8 +38,14 @@
 
    1. Source Code
 
-     ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/jawaban-js1.JPG)
+
+
+ ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/jawaban-js1.JPG)
+
+
 
     2. Hasil Tampilan
 
-     ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/jawaban-js1.JPG)
+
+
+![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/jawaban-js1.JPG)

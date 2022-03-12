@@ -25,5 +25,19 @@
 
     pada task kali ini kami membuat halaman website yang dinamis menggunakan media query dan mengupload nya pada github
     dan membuat repository bernama latihan materi-1 
+    1. taks membuat halaman responsive
+       1. lebar layar dibawah 600px
+![screenshots Jawaban no 4](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/10_Frontend%20Fundamental/screenshots/tugas%20fronend%20Fundamental%203JPG.JPG)
 
-    
+       2. lebar layar diatas 600px
+![screenshots Jawaban no 4](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/10_Frontend%20Fundamental/screenshots/tugas%20fronend%20Fundamental%202JPG.JPG)
+
+
+
+       3. lebar layar diatas 960 px
+
+![screenshots Jawaban no 4](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/10_Frontend%20Fundamental/screenshots/tugas%20fronend%20Fundamental%201.JPG)
+
+    2. Taks membuat repository github dengan branch latihan-materi1
+
+![screenshots Jawaban no 4](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/10_Frontend%20Fundamental/screenshots/tugas%20fronend%20Fundamental%204JPG.JPG)

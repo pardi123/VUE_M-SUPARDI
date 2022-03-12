@@ -38,8 +38,8 @@
 
    1. Source Code
 
-     ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/11_Vue_Fundamental/screenshots/tugas%20vue%20fundamenta%202l.JPG)
+     ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/jawaban-js1.JPG)
 
     2. Hasil Tampilan
 
-     ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/11_Vue_Fundamental/screenshots/tugas%20vue%20fundamental.JPG)
+     ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/8_Javascript%20Refreshment/screenshots/jawaban-js1.JPG)

@@ -21,4 +21,32 @@
 
         * Default atau bawaan
             * pada dasarnya direktori yang kita pilih dengan setelan bawaan akan tampak seperti Berikut
-                * 
+                * ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/12_Vue_CLI/screenshots/screenshots%20penjelasan%20vue%20cli.JPG)
+                * assest di direktori ini kita akan menyimpan semua file assets seperti halnya menyimpan font , ikon , gambar , style ,dll
+                * components di derektori ini, kita akan menyimpan semua file komponen file tunggal vue 
+                * Router di dalam direktori ini kita dapat menyimpan semua file yang terkait dengan vue router Vue-router adalah library untuk mengatur routing alamat aplikasi Vue
+                * Store ini adalah direktori penyimpanan vuex tempat kita dapat menyimpan semua file terkait vuex vuex adala library untuk mengatur penyimpanan state berbasis global pada aplikasi vue
+                * view isinya mirip direktori components , yaitu komponen file tunggal namun yang membedakan adalah pada direktori ini digunakan sebagai halaman dimana file dalam direktori ini langsung berhubungan dengan router sedangkan file di direktori components berhubungan langsung dengan file di direktori views atau sesama folder components
+                * Test Direktori ini berada di luar direktori src, karena direktori ini tidak berhubungan langsung dengan file yang dibutuhkan untuk proses pengembangan berisi berkas untuk melakukan unit testing komponen atau fungsi yang ada di dalam direktori src 
+
+
+# Taks
+       
+ 1. pada taks kali ini kami menggunakan vue komponen tunggal dan tugas nya seperti gambar dibawah ini k
+
+
+![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/12_Vue_CLI/screenshots/taks%20vue%20cli.JPG)
+
+2. jawaban 
+
+    * source code
+        ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/12_Vue_CLI/screenshots/jawaban%201%20vue%20cli.JPG)
+
+    * hasil
+    *  menginputkan list 
+    
+      ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/12_Vue_CLI/screenshots/source%20code%20vue%20cli.JPG)
+
+    * menampilkan tulisan hebat bila list telah mencapai 4
+
+    ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/12_Vue_CLI/screenshots/jawaban%20vue%20cli%202.JPG)

@@ -7,12 +7,15 @@
 <body>
     <div id="app">
         <div style="padding: 20px; margin-top: 100px;">
+            <div v-if="subjects.length  === 0">
+                <p>Data belum ada sihlakan di isi <a href="#value"><label for="value">Klick disini</label></a></p>
+            </div>
             <ol>
                 <li v-for="subject in subjects" ::key="subject.message">
                     {{ subject.message }}
                 </li>
             </ol>
-            <input type="text" v-model="isi" value="{{ isi }}" id="value">
+            <input type="text" v-model="value" id="value">
             <button @click="addSubject">Tambahkan</button>
             <p v-if="subjects.length > 3">Hebat</p>
         </div>
@@ -24,19 +27,19 @@
             el: '#app',
             data() {
                 return {
-                    isi: '',
+                    value: '',
                     subjects: [],
                 }
             },
             methods: {
                 addSubject() {
-                    if (this.isi === '') {
+                    if (this.value === '') {
 
                     } else {
                         this.subjects.push({
-                            message: this.isi
+                            message: this.value
                         })
-                        this.isi = ""
+                        this.value = ''
                     }
 
                 },

@@ -43,7 +43,7 @@ pada taks kali ini kami membuat aplikasi todo list dengan menggunakan komponent 
 
 1. source code list todos
 
-![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/11_Vue_Fundamental/screenshots/tugas%20vue%20fundamental.JPG)   
+![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/13_Komponent%20Vue/screenshots/tugas%20komponent%20vue%20source%20code.JPG)   
 
 2. disini saya menambahkan 2 list todos 
 

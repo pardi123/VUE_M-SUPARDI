@@ -52,5 +52,5 @@ pada  taks kali ini membuat list todo menggunakan penyimpanan global dan router 
   
   8. hasil thisAbout.vue apabila halaman di refresh data tidak akan hilang
    
-     ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/14_Vue_Helper/screenshots/hasil%20thisAbout.JPG
+     ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/14_Vue_Helper/screenshots/hasil%20thisAbout.JPG)
 

@@ -26,6 +26,7 @@
 
 2. hasil 
 
-     [screenshots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/15_Vue_data/screenshots/hasil%20halaman.JPG)  
-
-      [screenshots](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/15_Vue_data/screenshots/hasil%20halaman2.JPG)  
+    
+     ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/15_Vue_data/screenshots/hasil%20halaman.JPG)
+    ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/15_Vue_data/screenshots/hasil%20halaman2.JPG)
+   

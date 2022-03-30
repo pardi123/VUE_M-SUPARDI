@@ -28,4 +28,4 @@
      ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/16_Vue_quality_control/screenshot/hasil1.JPG)
 
 
-       ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/16_Vue_quality_control/screenshot/hasil2.JPG)
+    ![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/16_Vue_quality_control/screenshot/hasil2.JPG)

@@ -1,4 +1,4 @@
-# Understanding GraphQL Query
+# Understanding GraphQL Basic
 
 1. GraphQL API dikembangkan oleh Facebook, dengan tujuan untuk mendapatkan sebuah API yang lebih fleksibel dan efisien. Pendekatan ini dapat menyelesaikan permasalahan yang ada sekarang dan juga permasalahan yang dihadapi pengembang pada saat mengembangkan API dengan menggunakan pendekatan REST API. Meskipun demikian, mengembangkan sebuah API dengan pendekatan GraphQL API juga menambah daftar tantangan baru yang harus diselesaikan oleh para developer.
 2. Dengan pendekatan GraphQL kita dapat mengatur ketentuan apa saja atau data yang kita butuhkan pada sebuah query. Kita jadi dapat semua data sesuai dengan kebutuhan tanpa tambahan informasi yang tak kita butuhkan. Bagaimana? Lebih efisien dan fleksibel kan jika kita mendapatkan data dengan pendekatan GraphQL.

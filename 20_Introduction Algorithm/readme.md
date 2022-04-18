@@ -11,4 +11,4 @@
     pada tugas kali ini membuat algoritma menggunakan flowchart membuat algoritma bilangan primary
     dan hasilnyan 
 
-![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/tree/main/20_Introduction%20Algorithm/screenshots)
+![screenshots Jawaban no 1](https://github.com/pardi123/VUE_M-SUPARDI/blob/main/20_Introduction%20Algorithm/screenshots/Capture.JPG)

@@ -1,0 +1,6 @@
+query search($id: Int) {
+  kampus_merdeka(where: {id: {_eq: $id}}) {
+    nama
+    id
+  }
+}

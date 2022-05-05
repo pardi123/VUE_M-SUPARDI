@@ -1,0 +1,24 @@
+mutation insertUser($nama: String) {
+  insert_kampus_merdeka(objects: {nama: $nama}) {
+    returning {
+      id
+      nama
+    }
+  }
+}
+mutation delteUSer($id: Int) {
+  delete_kampus_merdeka(where: {id: {_eq: $id}}) {
+    returning {
+      id
+      nama
+    }
+  }
+}
+mutation updateUser($id: Int,$nama: String) {
+  update_kampus_merdeka(where: {id: {_eq: $id}}, _set: {nama: $nama}) {
+    returning {
+      id
+      nama
+    }
+  }
+}

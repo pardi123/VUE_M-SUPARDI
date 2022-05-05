@@ -1,0 +1,6 @@
+query users {
+  kampus_merdeka {
+    nama
+    id
+  }
+}
